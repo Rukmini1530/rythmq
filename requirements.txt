@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+opencv-python-headless
+mediapipe
+numpy
+scipy
+fastdtw
+gTTS
+tqdm

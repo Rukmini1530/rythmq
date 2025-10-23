@@ -1,9 +1,8 @@
-streamlit
-matplotlib
-opencv-python-headless
-mediapipe
-numpy
-scipy
-fastdtw
-gTTS
-tqdm
+streamlit==1.33.0
+opencv-python-headless==4.9.0.80
+mediapipe==0.10.14
+numpy==1.24.3
+matplotlib==3.8.2
+fastdtw==0.3.4
+gtts==2.5.1
+tqdm==4.66.1
